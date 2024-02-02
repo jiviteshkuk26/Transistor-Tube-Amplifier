@@ -9,7 +9,7 @@ Self?
 Proposed 
 
 ## Project Overview
-The Transistor Tube Amplifier project aims to design an amplifier that utilizes a vacuum tube pre-amplifier operating with 30 VDC and then sending it to class AB BJT amplifier to drive an 8ohm speaker.
+The Transistor Tube Amplifier project aims to design an amplifier that utilizes a vacuum tube pre-amplifier operating with 30 VDC and then sending it to class AB BJT amplifier to drive an 8ohm speaker. The whole system would be powered over USB2.0 power standard i.e. 5V 3A. 
 
 ## Educational Value Added
 
@@ -20,10 +20,12 @@ The Transistor Tube Amplifier project aims to design an amplifier that utilizes 
 
 ## Tasks
 
-1. Boost converter design 
-2. Tube amplifier design
-3. BJT amplifier design
-4. Filter and impedance matching
+1. Research tubes
+2. Design and test a tube pre-amplifier
+3. Design and test 5VDC to 30VDC switching boost converter
+4. Design and test a BJT amplifier design
+5. Design filters and matching network to integrate the 3 subsystems
+6. Design and implement the PCB
 
 ## Design Decisions
 
